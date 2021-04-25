@@ -22,7 +22,6 @@ Cython==0.29.21
 decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.0
-Django==3.0.8
 entrypoints==0.3
 filelock==3.0.12
 Flask==1.1.1
