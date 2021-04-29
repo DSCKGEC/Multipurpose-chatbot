@@ -1,5 +1,5 @@
-nltk==3.4.5
 tflearn==0.3.2
-tensorflow==2.4.1
-Flask==1.1.1
 numpy==1.18.4
+nltk==3.4.5
+tensorflow==1.13.2
+Flask==1.1.1
