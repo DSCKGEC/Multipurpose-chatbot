@@ -1,3 +1,4 @@
+python==3.8.1
 tflearn==0.3.2
 numpy==1.16.5
 nltk==3.4.5
