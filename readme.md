@@ -23,13 +23,13 @@ Heroku app - https://multipurpose-chatbot2.herokuapp.com/
 ## Description
 
 ### What's the problem?
-###   -Businesses these days face the problem of customer atention. With the advent of internet, business are facing question everytime which is not possible for a human anymore.
+####   -Businesses these days face the problem of customer atention. With the advent of internet, business are facing question everytime which is not possible for a human anymore.
 
 ### How can this project help?
-###   -we are developing a chatbot that can be trained according to the needs of the business and the text corpus for this chatbot can be given by the business themselves. The project is at the very beginning and we need your help for it.
+####   -we are developing a chatbot that can be trained according to the needs of the business and the text corpus for this chatbot can be given by the business themselves. The project is at the very beginning and we need your help for it.
 
 ### The idea
-###   -A chatbot which gets trained on the data given by the user. The data is stored in the intents.json file. 
+####   -A chatbot which gets trained on the data given by the user. The data is stored in the intents.json file. 
 
 ## Project structure
 
@@ -47,7 +47,7 @@ The project currently does the following things.
 
 
 ## Getting started
-## For getting started, one needs skills depending on the issues, if you are web guy, you can improve the ui of the index.html page, if you are into machine learning, you can check out for issues related to the model and training. The point is there is something for everyone in the repository. 
+#### For getting started, one needs skills depending on the issues, if you are web guy, you can improve the ui of the index.html page, if you are into machine learning, you can check out for issues related to the model and training. The point is there is something for everyone in the repository. 
 
 
 
