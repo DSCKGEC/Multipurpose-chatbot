@@ -26,7 +26,7 @@ Heroku app - https://multipurpose-chatbot2.herokuapp.com/
 ####   -Businesses these days face the problem of customer atention. With the advent of internet, business are facing question everytime which is not possible for a human anymore.
 
 ### How can this project help?
-####   -we are developing a chatbot that can be trained according to the needs of the business and the text corpus for this chatbot can be given by the business themselves. The project is at the very beginning and we need your help for it.
+####   -We are developing a chatbot that can be trained according to the needs of the business and the text corpus for this chatbot can be given by the business themselves. The project is at the very beginning and we need your help for it.
 
 ### The idea
 ####   -A chatbot which gets trained on the data given by the user. The data is stored in the intents.json file. 
@@ -53,9 +53,9 @@ The project currently does the following things.
 
 ### Installing:
 ### Step 1: Clone the repository 
-### Step 2: Create a anaconda environment with the commmand - 'conda create -n <name of the environment>'
-### Step 3: activate the environment with 'conda activate <name of the environment>'
-### Step 4: Install the packages listed in the requirements.txt file. For example, 'pip install tensorflow==1.13.2'
+### Step 2: Create a anaconda environment with the commmand - "conda create -n 'name of the environment'"
+### Step 3: activate the environment with "conda activate 'name of the environment'"
+### Step 4: Install the packages listed in the requirements.txt file. For example, "pip install tensorflow==1.13.2"
 ### Step 5 After you are done installing all the packages, run the app.py file or hit flask run and we are all set to go !! 
 
 
